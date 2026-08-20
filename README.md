@@ -1,16 +1,51 @@
-## Hi there 👋
+# C1OWN
 
-<!--
-**C1OWN228/C1OWN228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Automation Developer | AI • Parsers • Telegram Bots
 
-Here are some ideas to get you started:
+Создаю автоматизации и цифровые решения под реальные задачи.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Работаю с ИИ, сбором данных и разработкой инструментов, которые помогают автоматизировать рутинные процессы.
+
+---
+
+## Projects
+
+### 🔹 Provent Parser
+
+Парсер каталога товаров, который автоматически собирает информацию с сайта:
+
+- Названия
+- Артикулы
+- Цены
+- Описания
+- Характеристики
+- Фотографии
+- Видео
+
+Результаты сохраняются в структурированном виде.
+
+---
+
+### 🔹 Content System
+
+Система автоматизации создания и публикации контента.
+
+Архитектура:
+
+Collector → Filter → Slot Manager → AI Module → Publisher
+
+---
+
+## Skills
+
+- AI Automation
+- Data Parsing
+- Telegram Bots
+- Process Automation
+
+---
+
+## Contacts
+
+- Kwork
+- Telegram
